@@ -30,8 +30,7 @@ QUnit.test('parse', function (assert) {
 		'Single-key object with liberal syntax spacing'
 	);
 
-	val = JSOND.parse('{"foo":"one", "bar": "two", "baz": "three" }')
-;
+	val = JSOND.parse('{"foo":"one", "bar": "two", "baz": "three" }');
 	assert.deepEqual(
 		val,
 		{
