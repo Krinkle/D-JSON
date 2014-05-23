@@ -4,7 +4,6 @@ QUnit.module('JSOND');
 
 QUnit.test('parse', function (assert) {
 	var tmp, val;
-	//QUnit.expect(4);
 
 	val = JSOND.parse('{"key":"value"}');
 

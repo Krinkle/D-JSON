@@ -1,38 +1,38 @@
 {
-	"name": "d-json",
-	"version": "0.1.0",
-	"description": "Distributed JSON.",
-	"keywords": [
-		"JSON",
-		"d-json",
-		"djson",
-		"json-d",
-		"jsond",
-		"distributed",
-		"udp",
-		"socket"
-	],
-	"homepage": "https://github.com/Krinkle/D-JSON",
-	"bugs": "https://github.com/Krinkle/D-JSON/issues",
-	"author": {
-		"name": "Timo Tijhof",
-		"web": "https://github.com/Krinkle"
-	},
-	"main": "./src/D-JSON.js",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/Krinkle/D-JSON.git"
-	},
-	"scripts": {
-		"test": "node test/node-index.js"
-	},
-	"dependencies": {
-	},
-	"devDependencies": {
-		"qunit": "~0.5.7"
-	},
-	"licenses": [{
-		"type": "WTFPL",
-		"url": "http://sam.zoy.org/wtfpl/COPYING"
-	}]
+  "name": "d-json",
+  "version": "0.1.1",
+  "description": "Distributed JSON.",
+  "keywords": [
+    "JSON",
+    "d-json",
+    "djson",
+    "json-d",
+    "jsond",
+    "distributed",
+    "udp",
+    "socket"
+  ],
+  "homepage": "https://github.com/Krinkle/D-JSON",
+  "bugs": {
+    "url": "https://github.com/Krinkle/D-JSON/issues"
+  },
+  "author": "Timo Tijhof (https://github.com/Krinkle)",
+  "main": "./src/D-JSON.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Krinkle/D-JSON.git"
+  },
+  "scripts": {
+    "test": "node test/node-index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "0.6.3"
+  },
+  "licenses": [
+    {
+      "type": "WTFPL",
+      "url": "http://sam.zoy.org/wtfpl/COPYING"
+    }
+  ]
 }
