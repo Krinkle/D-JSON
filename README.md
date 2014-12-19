@@ -1,4 +1,4 @@
-[![NPM version](https://badge.fury.io/js/d-json.svg)](http://badge.fury.io/js/d-json) [![Build Status](https://travis-ci.org/Krinkle/D-JSON.svg?branch=master)](https://travis-ci.org/Krinkle/D-JSON)
+[![Build Status](https://travis-ci.org/Krinkle/D-JSON.svg?branch=master)](https://travis-ci.org/Krinkle/D-JSON) [![npm](https://img.shields.io/npm/v/d-json.svg?style=flat)](https://www.npmjs.com/package/d-json)
 
 # D-JSON: Distributed JSON
 
